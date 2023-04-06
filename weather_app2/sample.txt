@@ -1,0 +1,16 @@
+<th> CO :  </th>
+<th> NO2 :  </th>
+<th> O3 :  </th>
+<th> PM2.5 : </th>
+<th> PM10 : </th>
+<th> SO2 :  </th>
+<th> Overall_aqi : </th>
+
+
+CO =  response.CO
+NO2 = response.NO2
+O3 =  response.O3
+SO2 =  response.SO2
+PM25 =   response.PM25
+PM10 =  response.PM10
+overall_aqi =   response.overall_aqi
